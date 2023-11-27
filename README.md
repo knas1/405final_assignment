@@ -4,5 +4,4 @@
 CPIT-405 Lab Final Assignment
 
 ## Screenshots
-```markdown
 ![Login Page:](screenshots/Screenshot 2023-11-28 020242.png)
