@@ -1,7 +1,9 @@
 # Nawaf Bookmark App 
-# Extra Credit ( Implement user authentication and authorization mechanisms to ensure secure accessto bookmarks. & Implement search functionality to enable users to quickly locate specific bookmarks. )
+Extra Credit ( Implement user authentication and authorization mechanisms to ensure secure accessto bookmarks. & Implement search functionality to enable users to quickly locate specific bookmarks. )
 
 CPIT-405 Lab Final Assignment
+
+[Watch the Demo Video](https://youtu.be/awW6-FsjalI)
 
 ## Screenshots
 
